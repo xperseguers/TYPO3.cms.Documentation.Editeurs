@@ -19,7 +19,7 @@ Documentation TYPO3 pour éditeurs
       fr
 
 :Description:
-      This tutorial explains how to add or change content on an existing website in TYPO3. It provides the most basic instructions step by step and illustrated with screenshots.
+      Ce tutoriel explique comment modifier ou ajouter du contenu sur un site TYPO3 existant. Il contient les instructions de base, étape après étape. Chaque étape est illustrée avec des copies d'écran.
 
 :Keywords:
       forEditors, forBeginners, tutorial
