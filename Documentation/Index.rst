@@ -31,7 +31,7 @@ Documentation TYPO3 pour éditeurs
       Xavier Perseguers, Jean-Baptiste Hemmer, Thierry Brodard
 
 :Email:
-      xavier@typo3.org
+      xavier@typo3.org, jean-baptiste@hemmer.ch, thierry.brodard@techniconcept.ch
 
 :License:
       Open Content License available from `www.opencontent.org/opl.shtml
