@@ -8,18 +8,15 @@
 
 .. _start:
 
-==========================
-TYPO3 Tutorial for Editors
-==========================
-
-:Previous Key:
-      doc_tut_editors
+=================================
+Documentation TYPO3 pour éditeurs
+=================================
 
 :Version:
       6.0.0
 
 :Language:
-      en
+      fr
 
 :Description:
       This tutorial explains how to add or change content on an existing website in TYPO3. It provides the most basic instructions step by step and illustrated with screenshots.
@@ -28,13 +25,13 @@ TYPO3 Tutorial for Editors
       forEditors, forBeginners, tutorial
 
 :Copyright:
-      2000-2013
+      2013
 
 :Author:
-      Documentation Team
+      Xavier Perseguers, Jean-Baptiste Hemmer, Thierry Brodard
 
 :Email:
-      documentation@typo3.org
+      xavier@typo3.org
 
 :License:
       Open Content License available from `www.opencontent.org/opl.shtml
@@ -48,29 +45,18 @@ The content of this document is related to TYPO3,
 a GNU/GPL CMS/Framework available from `www.typo3.org
 <http://www.typo3.org/>`_
 
+**Documentation libre**
 
-**Official documentation**
-
-This document is included as part of the official TYPO3 documentation.
-It has been approved by the TYPO3 Documentation Team following a peer-
-review process. The reader should expect the information in this
-document to be accurate - please report discrepancies to the
-Documentation Team (documentation@typo3.org). Official documents are
-kept up-to-date to the best of the Documentation Team's abilities.
+Cette documentation ne fait partie de la documentation officielle de TYPO3.
 
 
-**Tutorial**
+**Tutoriel**
 
-This document is a Tutorial. Tutorials are designed to be step-by-step
-instructions specifically created to walk a beginner through a
-particular task from beginning to end. To facilitate effective
-learning, Tutorials provide examples to illustrate the subjects they
-cover. In addition, Tutorials provide guidance on how to avoid common
-pitfalls and highlight key concepts that should be remembered for
-future reference.
+Ce document est un tutoriel. Les tutoriels sont pensés pour guider étape par étape les
+utilisateurs dans l'accomplissement d'une tâche.
 
 
-**Table of Contents**
+**Sommaire**
 
 .. toctree::
    :maxdepth: 5
