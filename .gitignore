@@ -13,6 +13,7 @@
 *.idea
 *.project
 *.swp
+.DS_Store
 .buildpath
 .cache
 .project
