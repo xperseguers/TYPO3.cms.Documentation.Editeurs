@@ -1,5 +1,5 @@
 .. ==================================================
-.. FOR YOUR INFORMATION
+.. POUR VOTRE INFORMATION
 .. --------------------------------------------------
 .. -*- coding: utf-8 -*- with BOM.
 
@@ -8,10 +8,10 @@
 
 .. _login:
 
-Login
------
+Connexion
+----------
 
-Let's start from the beginning. Make sure you have javascript and cookies enabled in your browser or it will not work.
+Commençons par le début: la connexion au CMS TYPO3. Make sure you have javascript and cookies enabled in your browser or it will not work.
 
 Enter your domain name into the address bar of your internet browser and append "/typo3" to it to get to the "log in" page of your site.
 For example: http://www.example.com/typo3.
