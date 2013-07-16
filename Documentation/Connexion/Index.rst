@@ -33,4 +33,4 @@ Now you will see a screen like this:
    :titlesonly:
    :glob:
 
-   Help/Index
+   Aide/Index
