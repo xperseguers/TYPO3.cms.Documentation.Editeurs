@@ -14,10 +14,10 @@ Introduction
 
 .. _about:
 
-About this document
-^^^^^^^^^^^^^^^^^^^
+Au sujet de ce document
+^^^^^^^^^^^^^^^^^^^^^^^^
 
-This is a short tutorial for editors.
+Le présent document est un tutorial pour les éditeurs de contenu TYPO3.
 
 It first shows you how to log in to TYPO3. TYPO3 has a page tree with
 the pages, which you can see when you visit your website. On these
