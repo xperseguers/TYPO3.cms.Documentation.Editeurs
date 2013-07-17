@@ -31,6 +31,7 @@ En complément, le visiteur du site web voit ce que l'on appelle le **frontend**
    :titlesonly:
    :glob:
 
+   BarreEnTete/Index
    Menu/Index
    Arborescence/Index
    ZoneDeTravail/Index
