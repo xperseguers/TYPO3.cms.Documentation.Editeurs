@@ -1,5 +1,5 @@
 .. ==================================================
-.. FOR YOUR INFORMATION
+.. POUR VOTRE INFORMATION
 .. --------------------------------------------------
 .. -*- coding: utf-8 -*- with BOM.
 
@@ -8,20 +8,15 @@
 
 .. _overview:
 
-Overview
+Aperçu
 --------
 
-You are now in what is called the  **backend** of your site. Usually
-all changes to the content of the site are done here. Although there
-are ways to perform frontend editing, this tutorial only covers
-backend editing.
+Vous êtes maintenant dans ce que l'on appelle le **backend** de votre site. Ceci par opposition au **frontend**, qui est représenté par le site lui-même. De manière générale, toute modification du site se fera ici, via le **backend**. Il est possible, dans certains cas, de pouvoir éditer du contenu directement depuis le site (**frontend**) mais la présente documentation présente l'édition via le **backend**.
 
 .. figure:: ../Images/overview_img1.png
    :alt: Figure 3
 
-The backend is divided into  **three columns**. By
-selecting "Page" in the first column, you will see a screen similar to
-this one:
+Le backend est divisé en **trois colonnes**. En sélectionnant le menu "Page" dans la première colonne, vous verrez un écran similaire à celui-ci:
 
 The first column [1] is the  **menu** , which is used to select the
 task you want to perform. The second [2] column contains the **page

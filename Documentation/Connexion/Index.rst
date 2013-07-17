@@ -26,7 +26,7 @@ Voici la fenêtre de connexion qui apparaît:
 
 - Entrez votre mot de passe dans le champ "Mot de passe"
 
-- et cliquez sur le bouton [Connexion] ou sur [Enter] sur le clavier.
+- Cliquez sur le bouton [Connexion] ou sur [Enter] sur le clavier.
 
 
 .. toctree::
