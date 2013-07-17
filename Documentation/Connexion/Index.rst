@@ -19,7 +19,7 @@ Exemple: http://www.exemple.com/typo3.
 
 Voici la fenêtre de connexion qui apparaît:
 
-.. figure:: ../Images/login_img1.png
+.. figure:: ../Images/Connexion.png
    :alt: Figure 1
 
 - Entrez votre nom d'utilisateur dans le champ "Nom d'utilisateur"
