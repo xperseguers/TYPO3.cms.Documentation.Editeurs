@@ -8,22 +8,16 @@
 
 .. _help-inside:
 
-Help within TYPO3
-^^^^^^^^^^^^^^^^^
+Aide au sein de TYPO3
+^^^^^^^^^^^^^^^^^^^^^^^
 
-Before we dive further into using TYPO3, I would like to make clear again that even though this
-tutorial covers the basic features, there are a lot more. Here's where you can learn more
-directly from within your website:
+Avant de nous plonger davantage dans l'aide TYPO3, précisons que même si ce tutoriel couvre les fonctions de base, il n'est de loin pas complet. Voici comment vous pouvez trouver de l'aide direct à partir de votre site web:
 
-- A very short description of buttons or functions appears if you hover
-  with your mouse pointer over it.
+- Une petite description des boutons ou fonctions apparaît lorsque vous passez sur le bouton avec la souris.
 
-- A lot of times you will see the following **question mark** next to an element. Hovering over
-  it will pop up a little help window about the item or function it is next to:
-
+- Souvent vous verrez le **point d'interrogation** à côté d'un élément. Une aide contextuelle au sujet de l'élément ou de la fonction apparaît au passage de la souris. Il est à côté de:
 .. figure:: ../../Images/help_img1.png
    :alt: Figure 2
 
-- For a more extensive description use the  **manual** module in the
-  help category in the menu.
+- Pour plus d'information, vous avez toujours la possibilité d'utiliser la documentation étentue (en anglais) présente dans le menu de gauche (dans la partie "Aide"). Si ce menu n'est pas visible, vous pouvez demander à l'administrateur du site de l'afficher.
 
