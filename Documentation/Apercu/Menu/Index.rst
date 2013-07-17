@@ -8,25 +8,23 @@
 
 .. _headerbar:
 
-Headerbar
-^^^^^^^^^
+Barre d'en-tête
+^^^^^^^^^^^^^^^^^
 .. figure:: ../../Images/headerbar_img1.png
    :alt: Figure 4
 
-Beside the TYPO3 Logo you will find the following functions:
+A côté du logo TYPO3, vous trouverez les fonctions suivantes:
 
-#. Your username and logout button
-#. Add bookmark and workspaces
-#. Search
+#. Votre nom d'utilisateur et le bouton de déconnexion
+#. L'ajout aux favoris et espaces de travail
+#. La recherche
 
-After a predefined amount if time with *idle use* your session will expire
-for security reasons:
+Pour des raisons de sécurité, la session expire après quelques minutes de non-utilisation du système. L'affiche suivant permet alors de vous reconnecter:
 
 .. figure:: ../../Images/expire_img1.png
    :alt: Figure 5
 
-You may refresh the session, but unsaved changes will be lost - keep in mind, to
-save changes regular. TYPO3 saves data and files on the server and not on your pc.
+Vous pouvez actualiser la session mais les modifications non enregistrées seront perdues. ATTENTION: enregistrez vos modifications régulièrement. Pour rappel, TYPO3 enregistre les données et les fichiers sur le serveur et non sur votre ordinateur en local.
 
 
 .. _menu:
