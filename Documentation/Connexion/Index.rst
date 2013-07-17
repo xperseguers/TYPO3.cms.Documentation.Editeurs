@@ -11,21 +11,22 @@
 Connexion
 ----------
 
-Commençons par le début: la connexion au CMS TYPO3. Make sure you have javascript and cookies enabled in your browser or it will not work.
+Commençons par le début: la connexion au CMS TYPO3.
 
-Entrez votre nom de domaine dans la barre d'adresse de votre navigateur internet and append "/typo3" to it to get to the "log in" page of your site.
-For example: http://www.example.com/typo3.
+Entrez votre nom de domaine dans la barre d'adresse de votre navigateur internet et ajoutez "/typo3". Bienvenue sur la page de connexion du CMS TYPO3 qui gère votre site web.
 
-Now you will see a screen like this:
+Exemple: http://www.example.com/typo3.
+
+Voici la fenêtre de connexion qui apparaît:
 
 .. figure:: ../Images/login_img1.png
    :alt: Figure 1
 
-- In the Username box write your username
+- Entrez votre nom d'utilisateur dans le champ "Nom d'utilisateur"
 
-- In the Password box write your password
+- Entrez votre mot de passe dans le champ "Mot de passe"
 
-- and then press the [Login] button or hit [Enter].
+- et cliquez sur le bouton [Connexion] ou sur [Enter] sur le clavier.
 
 
 .. toctree::
