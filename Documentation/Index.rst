@@ -66,7 +66,7 @@ utilisateurs dans l'accomplissement d'une tâche.
    Introduction/Index
    Connexion/Index
    Apercu/Index
-   ContentElements/Index
+   ElementsDeContenu/Index
    Pages/Index
    Languages/Index
    NextSteps/Index

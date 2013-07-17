@@ -8,14 +8,10 @@
 
 .. _work-area:
 
-Work Area
-^^^^^^^^^
+La zone de travail
+^^^^^^^^^^^^^^^^^^^
 
-The work area displays the selected module with the content of the page which
-you have currently selected in the page tree. It is the part of the backend,
-in which you will do most of your work. Inside the work area you create and
-edit content and pages. The following sections contain all the details about
-the work area you need to know.
+La zone de travail affiche le module sélectionné avec le contenu de la page que vous avez sélectionné dans l'arborescence des pages. C'est la partie du **backend**, dans lequel vous ferez plus de votre travail. L'intérieur de la zone de travail sert à créer et à modifier du contenu et des pages. Les sections suivantes contiennent tous les détails que vous devez savoir au sujet de la zone de travail.
 
 The standard view is **Columns** and shows any possible column of a page, **Quickedit**
 is more suitable for advanced writers and **Languages** gives access to all available

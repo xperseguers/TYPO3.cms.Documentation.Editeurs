@@ -8,8 +8,8 @@
 
 .. _content-elements:
 
-Content Elements
-----------------
+Eléments de contenu
+--------------------
 
 
 .. toctree::
@@ -17,9 +17,9 @@ Content Elements
    :titlesonly:
    :glob:
 
-   Content/Index
-   CreatingContent/Index
-   EditingContent/Index
+   Contenu/Index
+   CreationDeContenu/Index
+   EditionDeContenu/Index
    RichTextEditor/Index
    Images/Index
    Files/Index

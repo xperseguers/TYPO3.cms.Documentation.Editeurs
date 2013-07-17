@@ -8,8 +8,8 @@
 
 .. _content-creating:
 
-Creating Content
-^^^^^^^^^^^^^^^^
+Créer des contenus
+^^^^^^^^^^^^^^^^^^^
 
 Once you have clicked to create a new content element, you will see a
 page with various content types available for selection.
@@ -24,8 +24,8 @@ In the following step you will be able to edit the new content.
 
 .. _content-typical:
 
-Typical Page Content
-""""""""""""""""""""
+Contenus de page typiques
+""""""""""""""""""""""""""
 
 .. figure:: ../../Images/content_create_img1.png
    :alt: Typical Page Content
@@ -33,8 +33,8 @@ Typical Page Content
 
 .. _content-special:
 
-Special Elements
-""""""""""""""""
+Eléments spéciaux
+"""""""""""""""""""
 
 .. figure:: ../../Images/content_create_img2.png
    :alt: Special Elements
