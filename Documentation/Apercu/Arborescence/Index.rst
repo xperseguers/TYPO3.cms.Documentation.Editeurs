@@ -1,5 +1,5 @@
 .. ==================================================
-.. FOR YOUR INFORMATION
+.. POUR VOTRE INFORMATION
 .. --------------------------------------------------
 .. -*- coding: utf-8 -*- with BOM.
 
@@ -8,15 +8,15 @@
 
 .. _page-tree:
 
-Page Tree
-^^^^^^^^^
+L'arborescence
+^^^^^^^^^^^^^^^
 
 .. figure:: ../../Images/pagetree_img1.png
    :alt: Figure 6
 
-In the page tree you will see different icons:
+Dans l'arborescence, vous allez retrouver différentes icônes:
 
-#. Page "Home" is a **shortcut** , that means, if you visit this page in
+#. La page "Home" is a **shortcut** , that means, if you visit this page in
    the frontend you will be redirected to a different page.
 
 #. Clicking on the arrow expands or implodes the directory tree.
