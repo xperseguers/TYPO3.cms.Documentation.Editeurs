@@ -18,17 +18,12 @@ Vous êtes maintenant dans ce que l'on appelle le **backend** de votre site. Cec
 
 Le backend est divisé en **trois colonnes**. En sélectionnant le menu "Page" dans la première colonne, vous verrez un écran similaire à celui-ci:
 
-The first column [1] is the  **menu** , which is used to select the
-task you want to perform. The second [2] column contains the **page
-tree** , which represents the hierarchy of the pages of the website.
-The third column [3] is the **work area**. The fourth area [4] is called
-**headerbar**. There you find for example the name of the user that is
-logged in (you!) and the logout button. Use the logout button to close
-TYPO3. TYPO3 will remember your last work area and come back to it on
-the next log on.
+La première colonne [1] comprend le **menu** qui est utilisé pour sélectionner la tâche que vous souhaitez effectuer. La seconde colonne [2] contient l'**arborescence** qui représente la hiérarchie des pages du site web.
+La troisième colonne [3] correspond à l'**espace de travail**. La quatrième zone [4] est appelée
+**barre d'en-tête**. On y trouve par exemple le nom de l'utilisateur connecté et le bouton de déconnexion. Utilisez le bouton de déconnexion afin de clore la session sur le CMS. TYPO3 se souvient de votre dernière zone de travail et y reviendra à la prochaine connexion.
 
-What the visitors of the site see is referred to as the **frontend**
-= your website.
+En complément, le visiteur du site web voit ce que l'on appelle le **frontend**
+= votre site web.
 
 
 .. toctree::
@@ -37,6 +32,6 @@ What the visitors of the site see is referred to as the **frontend**
    :glob:
 
    Menu/Index
-   PageTree/Index
-   WorkArea/Index
+   Arborescence/Index
+   ZoneDeTravail/Index
 
