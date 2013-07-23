@@ -8,8 +8,8 @@
 
 .. _content-working:
 
-Working with Content
-^^^^^^^^^^^^^^^^^^^^
+Travailler avec les contenus
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 We will now discuss the work area of the page module, where most of
 the work is usually done. Don't be scared by the many icons and
