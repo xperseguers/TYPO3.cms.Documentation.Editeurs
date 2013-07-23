@@ -11,7 +11,7 @@
 Créer des contenus
 ^^^^^^^^^^^^^^^^^^^
 
-Once you have clicked to create a new content element, you will see a
+Une fois que vous avez cliquez pour créer un nouvel élément de contenu, you will see a
 page with various content types available for selection.
 Note that the content type selections available to you are dependent
 on the features you have installed in your TYPO3 system.
