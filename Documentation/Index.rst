@@ -15,19 +15,19 @@ Documentation TYPO3 pour éditeurs
 :Version:
       6.0.0
 
-:Language:
+:Langue:
       fr
 
 :Description:
       Ce tutoriel explique comment modifier ou ajouter du contenu sur un site TYPO3 existant. Il contient les instructions de base, étape après étape. Chaque étape est illustrée avec des copies d'écran.
 
-:Keywords:
+:Mots-clés:
       forEditors, forBeginners, tutorial
 
 :Copyright:
       2013
 
-:Author:
+:Auteurs:
       Xavier Perseguers, Jean-Baptiste Hemmer, Thierry Brodard
 
 :Email:
