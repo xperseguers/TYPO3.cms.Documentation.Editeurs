@@ -12,42 +12,46 @@
 Documentation TYPO3 pour éditeurs
 =================================
 
-:Version:
-      6.0.0
+.. only:: html
 
-:Langue:
-      fr
+    :Version:
+        6.0.0
 
-:Description:
-      Ce tutoriel explique comment modifier ou ajouter du contenu sur un site TYPO3 existant. Il contient les instructions de base, étape après étape. Chaque étape est illustrée avec des copies d'écran.
+    :Langue:
+        fr
 
-:Mots-clés:
-      forEditors, forBeginners, tutorial
+    :Description:
+        Ce tutoriel explique comment modifier ou ajouter du contenu sur un site TYPO3 existant. Il contient les
+        instructions de base, étape après étape. Chaque étape est illustrée avec des copies d'écran.
 
-:Copyright:
-      2013
+    :Mots-clés:
+        forEditors, forBeginners, tutorial
 
-:Auteurs:
-      Xavier Perseguers, Jean-Baptiste Hemmer, Thierry Brodard
+    :Copyright:
+        2013
 
-:Email:
-      xavier@typo3.org, jean-baptiste@hemmer.ch, thierry.brodard@techniconcept.ch
+    :Auteurs:
+        Xavier Perseguers, Jean-Baptiste Hemmer, Thierry Brodard
 
-:License:
-      Open Content License available from `www.opencontent.org/opl.shtml
-      <http://www.opencontent.org/opl.shtml>`_
+    :Email:
+        xavier@typo3.org, jean-baptiste@hemmer.ch, thierry.brodard@techniconcept.ch
 
-:Rendered:
-      |today|
+    :Licence:
+        Ce document est publié sous la licence de contenu libre
+        disponible sur http://www.opencontent.org/opl.shtml
 
-The content of this document is related to TYPO3,
+    :Généré:
+        |today|
 
-a GNU/GPL CMS/Framework available from `www.typo3.org
-<http://www.typo3.org/>`_
 
-**Documentation libre**
+    Le contenu de ce document est en relation avec TYPO3,
+    un CMS/Framework GNU/GPL disponible sur `www.typo3.org <http://www.typo3.org/>`_.
 
-Cette documentation ne fait partie de la documentation officielle de TYPO3.
+
+.. admonition:: Documentation libre
+	:class: caution
+
+	Cette documentation ne fait partie de la documentation officielle de TYPO3.
 
 
 **Tutoriel**
@@ -55,8 +59,9 @@ Cette documentation ne fait partie de la documentation officielle de TYPO3.
 Ce document est un tutoriel. Les tutoriels sont pensés pour guider étape par étape les
 utilisateurs dans l'accomplissement d'une tâche.
 
+.. only:: html
 
-**Sommaire**
+    **Sommaire**
 
 .. toctree::
    :maxdepth: 5

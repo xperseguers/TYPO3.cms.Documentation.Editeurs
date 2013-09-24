@@ -3,6 +3,16 @@
 conf.py:
   project: Documentation TYPO3 pour éditeurs
   copyright: 2013
-  version: 6.0.0
+  version: 6.0
   release: 6.0.0
+  latex_documents:
+  - - Index
+    - EditorsTutorial.tex
+    - Documentation TYPO3 pour éditeurs
+    - Xavier Perseguers \and Jean-Baptiste Hemmer \and Thierry Brodard
+    - manual
+  latex_elements:
+    papersize: a4paper
+    pointsize: 10pt
+    preamble: \usepackage{typo3}
 ...
