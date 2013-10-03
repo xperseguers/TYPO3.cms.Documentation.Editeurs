@@ -14,32 +14,25 @@ Menu
 .. figure:: ../../Images/menu_img1.png
    :alt: Figure 6
 
-The menu has categories with several modules. You can see
-the categories **Web, File, User tools and **Help**
-and for example the modules  **Page, View, List, Info, Functions, Filelist** plus
-some others and some help modules. The categories and modules
-available may be different in your TYPO3 project.
+Le menu est divisé en plusieurs modules. On peut voir les catégories **Web, Fichier, Configuration utilisateur et Aide**
+et, par exemple, les modules **Page, Voir, Liste, Info, Fonctions, Fichiers**. Les catégories et modules disponibles peuvent différer 
+d'une instance TYPO3 à une autre en fonction de votre projet.
 
-The most used category is **Web** and the therein contained module
-**Page** . It allows you to create and edit webpages, manage different
-languages and columns of content per page.
+La catégorie principalement utilisée est la catégorie **Web** et son module **Page**. 
+Il permet de créer et d'éditer des pages web, de gérer les différentes langues et les contenus de page.
 
-The **View** module shows the frontend look of the page currently
-selected in the Page Tree.
+Le module **Voir** montre la page web courante comme elle s'affiche en FrontEnd.
 
-The  **List** module provides low level access to database-records
-appearing on a page.
+Le module **Liste** permet d'accéder aux éléments tels que stockés dans la base de données, table par table.
 
-Depending on your settings there might be a  **User** category with a
-**Task Center** and / or a **Setup** option.
+Indépendamment de votre configuration, vous devriez accéder à la catégorie **Utilisateur** avec un module de 
+**Configuration utilisateur** et éventuellement un **Centre des tâches**.
 
-This tutorial does not cover versioning, workspace, user, task center, filelist
-or setup.
+Ce présent tutoriel ne comprend pas le versioning, les espaces de travail ni les autres modules avancés.
 
-Also quite important is the  **Filelist** module. It is used to store
-all kinds of files like pictures, PDFs, etc. on the server.
+On retrouve également un moudle assez important: **Fichiers**. Il est utilisé pour stocker toute sorte de fichier comme les images, les pdf, ... sur le serveur. 
 
-All modules are explained in the **About modules** module in the help
-category. Please note that the categories can be folded using the
-little + / - buttons next to the name.
+On retrouve les explications des différents modules dans le module **A propos des modules** dans la catégorie **Aide**.
+Il est possible de fermer ou d'ouvrir une catégorie en cliquant sur la petite flèche qui précède le titre.
+
 
