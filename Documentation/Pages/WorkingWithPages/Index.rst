@@ -8,8 +8,8 @@
 
 .. _pages-working-with:
 
-Working with Pages
-^^^^^^^^^^^^^^^^^^
+Travailler avec les pages
+-------------------------
 
 You have already seen the page tree, now you will see how easy pages are
 created, moved around, hidden and deleted.
@@ -17,8 +17,8 @@ created, moved around, hidden and deleted.
 
 .. _pages-drag-drop:
 
-Drag and Drop
-"""""""""""""
+Glisser et déposer
+^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../Images/pagetree_img4.png
    :alt: Figure

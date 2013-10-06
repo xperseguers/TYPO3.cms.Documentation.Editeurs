@@ -9,45 +9,40 @@
 .. _introduction:
 
 Introduction
-------------
+============
 
 
 .. _about:
 
 Au sujet de ce document
-^^^^^^^^^^^^^^^^^^^^^^^^
+-----------------------
 
-Le présent document est un tutorial pour les éditeurs de contenu TYPO3.
+Le présent document est un tutoriel pour les éditeurs de contenu TYPO3.
 
-It first shows you how to log in to TYPO3. TYPO3 has a page tree with
-the pages, which you can see when you visit your website. On these
-pages you have content elements, which contain the content, which is
-present on each page. As an editor you will create and edit content
-elements and pages.
+Il commence par montrer comment s'authentifier dans TYPO3. TYPO3 a une arborescence de pages avec les pages
+que vous pouvez voir lorsque vous visitez votre site. Sur ces pages sont placés des éléments de contenu qui
+contiennent le contenu présent sur chaque page. En tant qu'éditeur vous pouvez créer et modifier des éléments
+de contenu et des pages.
 
-This tutorial begins with the tasks, which an editor needs most
-frequently: Editing existing and creating new content. The following
-chapters will explain how to edit and create pages. Finally there is a
-short introduction on working with translations.
+Ce tutoriel débute avec les tâches qu'un éditeur effectue le plus souvent : modifier le contenu existant et
+en créer de nouveau. Finalement il y a une brève introduction sur la façon de traduire votre contenu.
 
-The tutorial provides the most basic instructions step-by-step.
-It does not cover all available functions, but the most common ones.
+Ce tutoriel fournit les instructions pas à pas les plus simples. Il ne couvre pas toutes les fonctions
+disponibles, mais uniquement les plus fréquemment utilisées.
 
 
 .. _new:
 
-What's new
-^^^^^^^^^^
+Quoi de neuf
+------------
 
-- This manual is illustrated with screenshots from the Introduction Package
-  using TYPO3 CMS 6.0.
-- This document replaces the old document "typo3\_tut".
+- Ce manuel est illustré avec des copies d'écran de l'*Introduction Package* utilisant TYPO3 CMS 6.2 LTS.
 
 
 .. _credits:
 
-Credits
-^^^^^^^
+Crédits
+-------
 
 This extension is based on a tutorial extension originally written by
 Marlies Cohen and a summary / excerpt in the wiki by Eikaa. Susanne
@@ -57,7 +52,7 @@ Moog did some major updates. Thanks to them all!
 .. _feedback:
 
 Feedback
-^^^^^^^^
+--------
 
 For general questions about the documentation get in touch by writing
 to `documentation@typo3.org <mailto:documentation@typo3.org>`_ .

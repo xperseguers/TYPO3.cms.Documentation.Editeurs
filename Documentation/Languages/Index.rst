@@ -8,8 +8,8 @@
 
 .. _languages:
 
-Working with Languages
-----------------------
+Travailler avec des langues
+===========================
 
 If your site is available in multiple languages, you want to have
 different translations of the same page. Here is what you need to do:

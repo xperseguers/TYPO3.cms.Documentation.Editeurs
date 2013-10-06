@@ -3,8 +3,8 @@
 conf.py:
   project: Documentation TYPO3 pour éditeurs
   copyright: 2013
-  version: 6.0
-  release: 6.0.0
+  version: 6.2
+  release: 6.2.0
   latex_documents:
   - - Index
     - EditorsTutorial.tex

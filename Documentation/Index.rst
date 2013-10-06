@@ -15,7 +15,7 @@ Documentation TYPO3 pour éditeurs
 .. only:: html
 
     :Version:
-        6.0.0
+        |version|
 
     :Langue:
         fr

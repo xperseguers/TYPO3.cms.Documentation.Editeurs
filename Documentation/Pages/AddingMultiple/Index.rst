@@ -8,8 +8,8 @@
 
 .. _pages-multiple:
 
-Adding Multiple Pages at Once
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Ajout de plusieurs pages à la fois
+----------------------------------
 
 If you want to add more than one page at a time you can use the
 **Functions** module.

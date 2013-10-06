@@ -8,8 +8,8 @@
 
 .. _images:
 
-Working with Images
-^^^^^^^^^^^^^^^^^^^
+Travailler avec des images
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Most times you work with images either in the "text with image" or the
 "images only" content element. Both cases are covered here. For

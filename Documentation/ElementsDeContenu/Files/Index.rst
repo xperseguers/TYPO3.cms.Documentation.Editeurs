@@ -8,8 +8,8 @@
 
 .. _files:
 
-Working with Files
-^^^^^^^^^^^^^^^^^^
+Travailler avec des fichiers
+----------------------------
 
 If you want to include files in your website, first upload them to
 your web server.

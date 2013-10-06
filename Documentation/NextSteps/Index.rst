@@ -8,8 +8,8 @@
 
 .. _next-steps:
 
-Next steps
-----------
+Prochaines étapes
+=================
 
 If you want more detailed information on how to work with the TYPO3
 backend, you should read the :ref:`Getting Started Tutorial <t3start:start>`.

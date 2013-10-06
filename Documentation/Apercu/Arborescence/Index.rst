@@ -9,12 +9,12 @@
 .. _page-tree:
 
 L'arborescence
-^^^^^^^^^^^^^^^
+--------------
 
 .. figure:: ../../Images/pagetree_img1.png
    :alt: Figure 6
 
-Dans l'arborescence, vous allez retrouver différentes icônes:
+Dans l'arborescence, vous allez retrouver différentes icônes :
 
 #. La page "Home" is a **shortcut** , that means, if you visit this page in
    the frontend you will be redirected to a different page.

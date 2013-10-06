@@ -9,7 +9,7 @@
 .. _pages:
 
 Pages
------
+=====
 
 
 .. toctree::
