@@ -33,6 +33,6 @@ Ce présent tutoriel ne comprend pas le versioning, les espaces de travail ni le
 On retrouve également un moudle assez important: **Fichiers**. Il est utilisé pour stocker toute sorte de fichier comme les images, les pdf, ... sur le serveur. 
 
 On retrouve les explications des différents modules dans le module **A propos des modules** dans la catégorie **Aide**.
-Il est possible de fermer ou d'ouvrir une catégorie en cliquant sur la petite flèche qui précède le titre.
+Il est possible de fermer ou d'ouvrir une catégorie en cliquant sur la petite flèche qui précède le titre!
 
 
