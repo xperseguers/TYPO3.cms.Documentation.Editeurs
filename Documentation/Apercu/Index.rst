@@ -9,7 +9,7 @@
 .. _overview:
 
 Aperçu
---------
+======
 
 Vous êtes maintenant dans ce que l'on appelle le **backend** de votre site. Ceci par opposition au **frontend**, qui est représenté par le site lui-même. De manière générale, toute modification du site se fera ici, via le **backend**. Il est possible, dans certains cas, de pouvoir éditer du contenu directement depuis le site (**frontend**) mais la présente documentation présente l'édition via le **backend**.
 

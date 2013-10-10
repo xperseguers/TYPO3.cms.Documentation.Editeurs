@@ -9,7 +9,7 @@
 .. _content-editing:
 
 Editer des contenus
-^^^^^^^^^^^^^^^^^^^^
+-------------------
 
 The work area for editing content and for creating content is actually
 the same. The only difference is that the form is already filled when

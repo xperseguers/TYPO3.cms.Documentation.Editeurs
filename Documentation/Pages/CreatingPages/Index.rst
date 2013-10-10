@@ -8,8 +8,8 @@
 
 .. _pages-creating:
 
-Creating Pages
-^^^^^^^^^^^^^^
+Création de pages
+-----------------
 
 Adding a new page can be done in two ways.
 
@@ -19,8 +19,8 @@ Web (e.g. in the page module).
 
 .. _pages-creating-tree:
 
-Adding pages within the page tree
-"""""""""""""""""""""""""""""""""
+Ajout de pages depuis l'arborescence des pages
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../Images/page_img3.png
    :alt: Figure
@@ -44,8 +44,8 @@ the position of the page.
 
 .. _pages-creating-context:
 
-Adding pages with the context menu
-""""""""""""""""""""""""""""""""""
+Création de pages avec le menu contextuel
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../Images/pagetree_img3.png
    :alt: Figure
@@ -70,8 +70,8 @@ After selecting the location of the new page you would define the title of the p
 
 .. _pages-properties:
 
-Page Properties
-"""""""""""""""
+Propriétés des pages
+^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../Images/page_img2.png
    :alt: Figure

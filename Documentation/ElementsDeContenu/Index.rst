@@ -8,8 +8,8 @@
 
 .. _content-elements:
 
-Eléments de contenu
---------------------
+Éléments de contenu
+===================
 
 
 .. toctree::

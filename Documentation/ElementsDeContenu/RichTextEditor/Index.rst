@@ -9,7 +9,7 @@
 .. _rte:
 
 The Rich Text Editor
-^^^^^^^^^^^^^^^^^^^^
+--------------------
 
 The editor is pretty much self explanatory, you have probably worked
 with similar word processing software before. Depending on how the
@@ -32,8 +32,8 @@ Common  **Rich Text Editor** (RTE) formatting options include:
 
 .. _rte-linking:
 
-Creating a Link
-"""""""""""""""
+Créer un lien
+^^^^^^^^^^^^^
 
 .. figure:: ../../Images/content_links_img1.png
    :alt: Figure 17
