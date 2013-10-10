@@ -11,17 +11,14 @@
 Prochaines étapes
 =================
 
-If you want more detailed information on how to work with the TYPO3
-backend, you should read the :ref:`Getting Started Tutorial <t3start:start>`.
-It contains more exhaustive
-information on how to do editor tasks and it also includes basic
-instructions on some administration tasks like a short section on
-installing TYPO3 and notes on templates, user management and usage of
-extensions.
+Si vous souhaitez de plus amples informations sur la façon de travailler dans le backend de TYPO3,
+merci de lire impérativement le :ref:`Getting Started Tutorial <t3start:start>`.
+Il contient de plus amples informations sur les tâches éditoriales et inclus également les instructions
+de base sur une partie des tâches administratives, comme par exemple un chapitre succint sur l'installation
+de TYPO3 ou encore quelques informations sur le templating, la gestion des utilisateurs ou l'utilisation d'extensions.
 
-If you need more information on how to translate a website, you should
-read the :ref:`Localization Guide <t3l10n:start>`. It contains information on how to set up a
-multi-language site and how to actually do the translation and
-localization.
+Si vous avez besoin de plus d'information sur la façon de traduire un site Internet, vous pouvez lire
+le :ref:`Localization Guide <t3l10n:start>`. Ce guide contient les informations sur la façon de configurer
+un site multilingue ainsi que sur la gestion des traductions et de l'internationalisation.
 
 
