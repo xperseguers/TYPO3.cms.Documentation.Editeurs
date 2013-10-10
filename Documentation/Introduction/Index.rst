@@ -42,11 +42,9 @@ Quoi de neuf
 .. _credits:
 
 Crédits
--------
+--------
 
-This extension is based on a tutorial extension originally written by
-Marlies Cohen and a summary / excerpt in the wiki by Eikaa. Susanne
-Moog did some major updates. Thanks to them all!
+Cette documentation est une traduction améliorée et complétée de la version écrite originalement par Marlies Cohen et Eikaa. Susanne Moog a réalisé les mises à jour principales. La version française du texte a été rédigée par Thierry Brodard et Jean-Baptiste Hemmer. Xavier Perseguers s'est principalement occupé de la mise en place du système. Merci à tous pour votre engagement!
 
 
 .. _feedback:
@@ -54,20 +52,16 @@ Moog did some major updates. Thanks to them all!
 Feedback
 --------
 
-For general questions about the documentation get in touch by writing
-to `documentation@typo3.org <mailto:documentation@typo3.org>`_ .
+Pour les questions générales au sujet de la documentation, vous pouvez écrire à `documentation@typo3.org <mailto:documentation@typo3.org>`_ .
 
-If you find a bug in this manual, please file an issue in this
-manual's bug tracker: `http://forge.typo3.org/projects/typo3v4-typo3\_
+Si vous trouvez des erreurs dans ce manuel, merci de le reporter dans le bug tracker: `http://forge.typo3.org/projects/typo3v4-typo3\_
 editor\_tutorial/issues <http://forge.typo3.org/projects/typo3v4-typo3
 _editor_tutorial/issues>`_
 
-To support the translation to other languages see
+Pour contribuer à la traduction (en français ou dans d'autres langues), rendez-vous ici:
 `http://wiki.typo3.org/Doc\_tut\_editors
 <http://wiki.typo3.org/Doc_tut_editors>`_
 
-Maintaining quality documentation is hard work and the Documentation
-Team is always looking for volunteers. If you feel like helping please
-join the documentation mailing list (typo3.projects.documentation on
-lists.typo3.org).
+La maintenance d'une documentation de qualité est un travail de longue haleine, c'est pourquoi, nous sommes constamment à la recherche de bénévoles. Si vous souhaitez participer à ce projet, rejoignez sans autre la mailing list au sujet de la documentation: typo3.projects.documentation on
+lists.typo3.org.
 
