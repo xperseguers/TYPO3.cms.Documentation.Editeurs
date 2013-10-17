@@ -31,10 +31,10 @@ Documentation TYPO3 pour éditeurs
         2013
 
     :Auteurs:
-        Xavier Perseguers, Jean-Baptiste Hemmer, Thierry Brodard
+        Jean-Baptiste Hemmer, Thierry Brodard
 
     :Email:
-        xavier@typo3.org, jean-baptiste@hemmer.ch, thierry.brodard@techniconcept.ch
+        jean-baptiste@hemmer.ch, thierry.brodard@techniconcept.ch
 
     :Licence:
         Ce document est publié sous la licence de contenu libre

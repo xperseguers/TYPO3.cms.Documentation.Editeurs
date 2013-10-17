@@ -9,7 +9,7 @@ conf.py:
   - - Index
     - EditorsTutorial.tex
     - Documentation TYPO3 pour éditeurs
-    - Xavier Perseguers \and Jean-Baptiste Hemmer \and Thierry Brodard
+    - Jean-Baptiste Hemmer \and Thierry Brodard
     - manual
   latex_elements:
     papersize: a4paper
