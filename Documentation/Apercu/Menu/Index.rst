@@ -34,12 +34,5 @@ Ce présent tutoriel ne comprend pas le versioning, les espaces de travail ni le
 On retrouve également un module assez important : **Fichiers**. Il est utilisé pour stocker toute sorte de fichiers
 comme les images, les documents PDF, ... sur le serveur.
 
-<<<<<<< HEAD
 On retrouve les explications des différents modules dans le module **A propos des modules** dans la catégorie **Aide**.
 Il est possible de fermer ou d'ouvrir une catégorie en cliquant sur la petite flèche qui précède le titre!
-
-
-=======
-On retrouve les explications des différents modules dans le module **À propos des modules** dans la catégorie **Aide**.
-Il est possible de fermer ou d'ouvrir une catégorie en cliquant sur la petite flèche qui précède le titre.
->>>>>>> 77f7565b591918d5ac153822a8ffc07fb8563309
