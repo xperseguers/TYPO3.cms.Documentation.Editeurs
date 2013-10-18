@@ -12,9 +12,7 @@ Travailler avec des langues
 ===========================
 
 Si votre site est disponible en plusieurs langues, vous aurez différentes traduction pour la même page.
-
-If your site is available in multiple languages, you want to have
-different translations of the same page. Here is what you need to do:
+Voici ce que vous devez savoir.
 
 Dans la partie supérieure du **Module Page**, un sélecteur est disponible, afin de choisir l'option **Langues**.
 

@@ -20,7 +20,7 @@ Barre d'en-tête
 #. L'ajout aux favoris et les espaces de travail
 #. La recherche
 
-Pour des raisons de sécurité, la session expire après quelques minutes d'inactivé. L'affiche suivant permet alors de
+Pour des raisons de sécurité, la session expire après quelques minutes d'inactivé. L'affiche suivante permet alors de
 vous reconnecter :
 
 .. figure:: ../../Images/expire_img1.png

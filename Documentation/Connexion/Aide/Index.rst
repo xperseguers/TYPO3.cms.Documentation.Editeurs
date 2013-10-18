@@ -22,6 +22,18 @@ n'est de loin pas complet. Voici comment vous pouvez trouver de l'aide direct à
   .. figure:: ../../Images/help_img1.png
     :alt: Figure 2
 
-- Pour plus d'information, vous avez toujours la possibilité d'utiliser la documentation étentue (en anglais) présente
+  .. admonition:: À mettre à jour
+    :class: note
+
+    Cette icône n'existe plus dans les versions récentes de TYPO3
+
+- Pour plus d'information, vous avez toujours la possibilité d'utiliser la documentation étendue (en anglais) présente
   dans le menu de gauche (dans la partie "Aide"). Si ce menu n'est pas visible, vous pouvez demander à l'administrateur
   du site de l'afficher.
+
+  .. admonition:: À mettre à jour
+    :class: note
+
+    Parler du module Documentation pour la documentation officielle, celle des extensions et peut-être
+    celle fournie par la société qui a fait l'intégration.
+

@@ -18,6 +18,9 @@ Vous êtes maintenant dans ce que l'on appelle le **backend** de votre site. Cec
 
 Le backend est divisé en **trois colonnes**. En sélectionnant le menu "Page" dans la première colonne, vous verrez un écran similaire à celui-ci:
 
+.. warning::
+    IMAGE MANQUANTE d'après le texte ci-dessus.
+
 La première colonne [1] comprend le **menu** qui est utilisé pour sélectionner la tâche que vous souhaitez effectuer. La seconde colonne [2] contient l'**arborescence** qui représente la hiérarchie des pages du site web.
 La troisième colonne [3] correspond à l'**espace de travail**. La quatrième zone [4] est appelée
 **barre d'en-tête**. On y trouve par exemple le nom de l'utilisateur connecté et le bouton de déconnexion. Utilisez le bouton de déconnexion afin de clore la session sur le CMS. TYPO3 se souvient de votre dernière zone de travail et y reviendra à la prochaine connexion.

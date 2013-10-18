@@ -8,7 +8,7 @@
 
 .. _content-editing:
 
-Editer des contenus
+Éditer des contenus
 -------------------
 
 The work area for editing content and for creating content is actually

@@ -13,7 +13,7 @@ Prochaines étapes
 
 Si vous souhaitez de plus amples informations sur la façon de travailler dans le backend de TYPO3,
 merci de lire impérativement le :ref:`Getting Started Tutorial <t3start:start>`.
-Il contient de plus amples informations sur les tâches éditoriales et inclus également les instructions
+Il contient de plus amples informations sur les tâches éditoriales et inclut également les instructions
 de base sur une partie des tâches administratives, comme par exemple un chapitre succint sur l'installation
 de TYPO3 ou encore quelques informations sur le templating, la gestion des utilisateurs ou l'utilisation d'extensions.
 

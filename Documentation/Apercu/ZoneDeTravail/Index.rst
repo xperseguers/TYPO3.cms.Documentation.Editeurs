@@ -11,7 +11,7 @@
 La zone de travail
 ------------------
 
-La zone de travail affiche le module sélectionné avec le contenu de la page que vous avez sélectionné dans l'arborescence des pages. C'est la partie du **backend**, dans lequel vous ferez plus de votre travail. L'intérieur de la zone de travail sert à créer et à modifier du contenu et des pages. Les sections suivantes contiennent tous les détails que vous devez savoir au sujet de la zone de travail.
+La zone de travail affiche le module sélectionné avec le contenu de la page que vous avez sélectionné dans l'arborescence des pages. C'est la partie du **backend**, dans laquelle vous travaillerez le plus. L'intérieur de la zone de travail sert à créer et à modifier du contenu et des pages. Les sections suivantes contiennent tous les détails que vous devez savoir au sujet de la zone de travail.
 
 The standard view is **Columns** and shows any possible column of a page, **Quickedit**
 is more suitable for advanced writers and **Languages** gives access to all available
