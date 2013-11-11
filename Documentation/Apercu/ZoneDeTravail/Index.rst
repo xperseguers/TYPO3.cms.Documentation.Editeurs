@@ -13,19 +13,17 @@ La zone de travail
 
 La zone de travail affiche le module sélectionné avec le contenu de la page que vous avez sélectionné dans l'arborescence des pages. C'est la partie du **backend**, dans laquelle vous travaillerez le plus. L'intérieur de la zone de travail sert à créer et à modifier du contenu et des pages. Les sections suivantes contiennent tous les détails que vous devez savoir au sujet de la zone de travail.
 
-The standard view is **Columns** and shows any possible column of a page, **Quickedit**
-is more suitable for advanced writers and **Languages** gives access to all available
-language versions of this page.
+La vue standard est **Columns** et affiche toutes les colonnes possible de la page,
+**Quickedit** est plus pour les rédacteurs avancé et **Languages** affiche toutes les traductions disponibles de la pages
 
 .. figure:: ../../Images/workarea_img1.png
    :alt: Figure 9
 
-#. The left icon (page with eye) opens a preview in a new window, the right icon
-   (pencil) opens the page properties
+#. L'icône de gauche (page avec un oeil) ouvre un aperçu dans une nouvelle fenêtre, l'icône de droite
+   (crayon) ouvre les propriétés de la page
 
-#. In the right upper corner you will always see your current work directory. The icons
-   to clear the page cache (flash) and to create bookmark to this page.
+#. Dans le coin supérieur droit vous verrez toujours la page ou le répertoire courant(e).
+   L'icône pour vider le cache de la page (l'éclair) et créer un bookmark vers cette page.
 
-#. To move the content elements up and down in one column or between each other drag
-   and drop them with the cursor (click + hold). The green bar in the left column is
-   highlighted to offer a possible next position.
+#. Pour déplacer les éléments de contenu en haut ou en bas dans une colonne ou entre d'autres éléments de contenu avec le curseur (en maintenant le click).
+   La barre verte dans la colonne de gauche est en surbrillance pour dire la prochaine position.

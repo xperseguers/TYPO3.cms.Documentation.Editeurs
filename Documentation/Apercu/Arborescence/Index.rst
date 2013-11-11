@@ -16,28 +16,26 @@ L'arborescence
 
 Dans l'arborescence, vous allez retrouver différentes icônes :
 
-#. La page "Home" is a **shortcut** , that means, if you visit this page in
-   the frontend you will be redirected to a different page.
+#. La page "Home" est un **raccourci** , cela signifie que si un utilisateur visite cette page, il sera redirigé vers une page différente
 
-#. Clicking on the arrow expands or implodes the directory tree.
+#. Cliquez sur la flèche pour ouvrir ou fermer l'arborescence du répertoire ou de la page.
 
-#. Page "History" is a **standard** page
+#. La page "History" est une page **standard**
 
-#. "News Entries" is not so much a page but rather a **folder**, they are used to
-   store all kinds of items, for example news, newsletters, guest book
+#. "News Entries" n'est pas une page mais un **répertoire**, ils sont utilisés pour
+   stocker différents éléments, par exemple news, newsletters, guest book
    entries, etc.
 
-#. If you created a page and it doesn't appear reload the page tree.
+#. Si vous avez créé une page et qu'elle n'apparait pas, ce bouton vous permettra de rafraichir l'arborescence.
 
 .. figure:: ../../Images/pagetree_img2.png
    :alt: Figure 7
 
-Use the filter (click on icon) to delimit the pages shown in the page tree.
+Utilisez le filtre (en cliquant sur l'icône) pour délimiter les pages affichées dans l'arborescence.
 
 .. figure:: ../../Images/pagetree_img3.png
    :alt: Figure 8
 
-Note that it makes a difference if you click on the icon or on the
-name of the page. Clicking on the icon will produce the context menu with page
-specific options, while clicking on the name of the page will load the
-page in the work area.
+Notez qu'il y a une différence en cliquant sur l'icône ou le nom de la page.
+En cliquant sur l'icône, cela ouvrira un menu avec différentes options.
+Tandis qu'en cliquant sur le nom de la page, cela chargera le contenu de la page.

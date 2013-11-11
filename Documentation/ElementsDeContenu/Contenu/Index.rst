@@ -11,32 +11,28 @@
 Travailler avec les contenus
 ----------------------------
 
-We will now discuss the work area of the page module, where most of
-the work is usually done. Don't be scared by the many icons and
-buttons, as they are somewhat redundant. Use the mouse to point and
-hover (do not click) over any icon to see the help text appear.
-At first we will discuss working with content, later we will talk
-about how to work with pages.
+Nous allons maintenant parler de l'espace de travail du module Page, où la majorité
+du travail sera fait. Ne soyez pas effrayé par le nombre d'icône et boutons, comme ils sont un peu redondantes.
+Utilisez la souris pour survoler (ne pas cliquer) par dessus n'importe quelle icône pour voir l'aide.
+Dans un premier temps nous allons parler du travail avec le contenu, plus tard nous allons parler de comment travailler avec les pages
 
-The screenshot shows the work area of the page module after clicking on the
-name of a page in the page tree. You can see two **content elements** one in
-the column called  *Normal* and one in the column *Right*, the column *Left*
-is empty.
+La copie d'écran montre l'espace de travail du module page après avoir
+cliquer sur le nom de la page dans l'arborescence. Vous pourrez voir deux **éléments de contenu** l'un dans
+la colonne nommée *Normal* et l'autre dans *Right*, la colonnes *Left* est vide
 
 .. figure:: ../../Images/content_img1.png
    :alt: Figure 12
 
-The content elements on this page are type **text** and **text with image**,
-and we'll learn more about different content types later on. Moving over
-a column or an content element will highlight it, so that you will see
-the icons.
+Les éléments de contenu sur cette page sont de type **text** et **texte avec image**,
+et nous étudierons plus à propos des différents types de contenu plus tard.
+Survolez sur une colonne ou bien un élément de contenu pour la/le mettre en surbrillance, vous pourrez voir les icônes.
 
-#. Edit all content elements of one column.
+#. Editer tous les éléments de contenu d'une colonne.
 
-#. Add a new content element to this column.
+#. Ajouter un nouvel élément de contenu dans cette colonne.
 
-#. Icon of the content element *Text with image*
+#. L'icône de l'élément de contenu *Texte avec image*
 
-#. Edit this content element, enable/disable or delete it.
+#. Editer, activer/désactiver ou supprimer l'élément de contenu.
 
-You can click anywhere on the highlighted area of the content element to edit it.
+Vous pouvez cliquer n'importe où sur la zone en surbrillance de l'élément de contenu pour l'éditer.
