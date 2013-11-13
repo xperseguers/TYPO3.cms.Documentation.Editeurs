@@ -24,9 +24,9 @@ Il permet de créer et d'éditer des pages web, de gérer les différentes langu
 Le module **Voir** montre la page web courante comme elle s'affiche en Frontend et vous permet de simuler rapidement
 l'affichage de votre site sur des smartphones et des tablettes.
 
-Le module **Liste** permet d'accéder aux éléments tels que stockés dans la base de données, table par table.
+Le module **Liste** permet d'accéder aux éléments tels qu'ils sont stockés dans la base de données, table par table.
 
-Indépendamment de votre configuration, vous devriez accéder à la catégorie **Utilisateur** avec un module de
+En fonction de votre configuration, vous devriez accéder à la catégorie **Utilisateur** avec un module de
 **Configuration utilisateur** et éventuellement un **Centre des tâches**.
 
 Ce présent tutoriel ne comprend pas le versioning, les espaces de travail ni les autres modules avancés.

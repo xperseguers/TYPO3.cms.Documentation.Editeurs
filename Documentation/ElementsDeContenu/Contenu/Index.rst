@@ -12,19 +12,19 @@ Travailler avec les contenus
 ----------------------------
 
 Nous allons maintenant parler de l'espace de travail du module Page, où la majorité
-du travail sera fait. Ne soyez pas effrayé par le nombre d'icône et boutons, comme ils sont un peu redondantes.
+du travail sera faite. Ne soyez pas effrayé par le nombre d'icône et boutons, car certains sont un peu redondants.
 Utilisez la souris pour survoler (ne pas cliquer) par dessus n'importe quelle icône pour voir l'aide.
-Dans un premier temps nous allons parler du travail avec le contenu, plus tard nous allons parler de comment travailler avec les pages
+Dans un premier temps nous allons parler du travail avec le contenu, plus tard nous allons parler de comment travailler avec les pages.
 
 La copie d'écran montre l'espace de travail du module page après avoir
-cliquer sur le nom de la page dans l'arborescence. Vous pourrez voir deux **éléments de contenu** l'un dans
-la colonne nommée *Normal* et l'autre dans *Right*, la colonnes *Left* est vide
+cliqué sur le nom de la page dans l'arborescence. Vous pourrez voir deux **éléments de contenu** l'un dans
+la colonne nommée *Normal* et l'autre dans *Right*, la colonnes *Left* est vide.
 
 .. figure:: ../../Images/content_img1.png
    :alt: Figure 12
 
-Les éléments de contenu sur cette page sont de type **text** et **texte avec image**,
-et nous étudierons plus à propos des différents types de contenu plus tard.
+Les éléments de contenu sur cette page sont de type **Texte** et **Texte avec image**,
+et nous étudierons plus à propos les différents types de contenu plus tard.
 Survolez sur une colonne ou bien un élément de contenu pour la/le mettre en surbrillance, vous pourrez voir les icônes.
 
 #. Editer tous les éléments de contenu d'une colonne.

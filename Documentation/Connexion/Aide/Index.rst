@@ -12,7 +12,7 @@ Aide au sein de TYPO3
 ---------------------
 
 Avant de nous plonger davantage dans l'aide TYPO3, précisons que même si ce tutoriel couvre les fonctions de base, il
-n'est de loin pas complet. Voici comment vous pouvez trouver de l'aide direct à partir de votre site web:
+n'est de loin pas complet. Voici comment vous pouvez trouver de l'aide directe à partir de votre site web:
 
 - Une petite description des boutons ou fonctions apparaît lorsque vous passez sur le bouton avec la souris.
 

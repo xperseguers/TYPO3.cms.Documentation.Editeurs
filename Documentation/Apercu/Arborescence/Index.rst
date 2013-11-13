@@ -22,7 +22,7 @@ Dans l'arborescence, vous allez retrouver différentes icônes :
 
 #. La page "History" est une page **standard**
 
-#. "News Entries" n'est pas une page mais un **répertoire**, ils sont utilisés pour
+#. "News Entries" n'est pas une page mais un **dossier**, ils sont utilisés pour
    stocker différents éléments, par exemple news, newsletters, guest book
    entries, etc.
 

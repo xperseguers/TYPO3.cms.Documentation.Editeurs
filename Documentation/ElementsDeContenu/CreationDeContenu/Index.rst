@@ -11,24 +11,22 @@
 Créer des contenus
 ------------------
 
-Une fois que vous avez cliqué pour créer un nouvel élément de contenu, you will see a
-page with various content types available for selection.
-Note that the content type selections available to you are dependent
-on the features you have installed in your TYPO3 system.
+Une fois que vous avez cliqué pour créer un nouvel élément de contenu, vous aurez à disposition une page avec les différents types de contenu à disposition.
+Notez que la disponibilité des types de contenu est dépendant des modules installés sur votre système TYPO3, ainsi que des droits d'accès octroyés.
 
-In the first step you can then select which type of content you want
-to have, use the other tabs to choose different types of content elements.
+A la 1ère étape vous pouvez sélectionner quel type de contenu vous souhaitez placer sur la page. Vous pouvez naviguer dans les autres onglets pour choisir entre les différents types d'éléments de contenu.
 
-In the following step you will be able to edit the new content.
+A l'étape suivante, vous pourrez éditer votre nouvel élément de contenu.
+
 
 
 .. _content-typical:
 
-Contenus de page typiques
+Contenus de pages typiques
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../Images/content_create_img1.png
-   :alt: Typical Page Content
+   :alt: Contenus de pages typiques
 
 
 .. _content-special:
@@ -37,7 +35,7 @@ Contenus de page typiques
 ^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../Images/content_create_img2.png
-   :alt: Special Elements
+   :alt: Éléments spéciaux
 
 
 .. _content-form:
@@ -46,7 +44,7 @@ Contenus de page typiques
 ^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../Images/content_create_img3.png
-   :alt: Form Elements
+   :alt: Éléments de formulaire
 
 
 .. _content-plugin:
