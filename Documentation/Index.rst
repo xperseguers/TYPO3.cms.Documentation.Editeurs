@@ -51,7 +51,7 @@ Documentation TYPO3 pour éditeurs
 .. admonition:: Documentation libre
 	:class: caution
 
-	Cette documentation ne fait partie de la documentation officielle de TYPO3.
+	Cette documentation ne fait pas partie de la documentation officielle de TYPO3.
 
 
 **Tutoriel**
