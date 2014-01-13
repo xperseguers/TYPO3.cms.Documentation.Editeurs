@@ -23,7 +23,7 @@ A l'étape suivante, vous pourrez éditer votre nouvel élément de contenu.
 .. _content-typical:
 
 Contenus de pages typiques
-^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../Images/content_create_img1.png
    :alt: Contenus de pages typiques

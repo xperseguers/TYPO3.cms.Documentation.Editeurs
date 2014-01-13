@@ -29,5 +29,6 @@ La vue standard est **Columns** et affiche toutes les colonnes possibles de la p
    L'icône pour vider le cache de la page (l'éclair) et créer un bookmark vers cette page.
 
 #. Pour déplacer les éléments de contenu en haut ou en bas dans une colonne ou entre d'autres éléments de contenu avec
-    le curseur (en maintenant le click).
-   La barre verte dans la colonne de gauche est en surbrillance pour indiquer la prochaine position.
+   le curseur (en maintenant le click).
+
+   La barre verte dans la colonne de gauche est en surbrillance pour indiquer la prochaine position
