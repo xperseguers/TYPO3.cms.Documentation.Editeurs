@@ -22,4 +22,7 @@ conf.py:
     t3start:
     - http://docs.typo3.org/typo3cms/GettingStartedTutorial/
     - null
+  html_theme_options:
+    github_repository: xperseguers/TYPO3.cms.Documentation.Editeurs
+    github_branch: master
 ...
