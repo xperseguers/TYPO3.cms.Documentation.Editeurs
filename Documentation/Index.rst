@@ -25,10 +25,10 @@ Documentation TYPO3 pour éditeurs
         instructions de base, étape après étape. Chaque étape est illustrée avec des copies d'écran.
 
     :Mots-clés:
-        forEditors, forBeginners, tutorial
+        Pour éditeurs, pour débutants, tutoriel
 
     :Copyright:
-        2013
+        2013-2014
 
     :Auteurs:
         Jean-Baptiste Hemmer, Thierry Brodard
